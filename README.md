@@ -1,4 +1,4 @@
-# C_Rubik-s_Cube_Project
+# C_Rubik-s_Cube_L1_Project
 
 # Project: Implementing and Solving the Rubik's Cube
 
